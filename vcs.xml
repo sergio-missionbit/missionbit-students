@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/mingli1/Unlucky.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EssenceOW/Lig.mab.all.z_hrd.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
